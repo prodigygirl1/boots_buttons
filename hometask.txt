@@ -1,0 +1,11 @@
+1)Ветки demo и master не имеют различий
+2)9 commits:
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
